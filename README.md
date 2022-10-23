@@ -50,6 +50,8 @@ _Nah, untuk tugasnya, ini ada 3. HAAAAH ADA 3? ya. berikut sudah saya recap juga
 
 - Bang saya punya pertanyaan tapi gaada di FAQ? **Silahkan ditanya di grup ya, jangan lewat personal chat. Mungkin ada teman teman lain yang punya pertanyaan sama dan ada dosen juga yang bisa membantu untuk jawab.**
 
+- Bang ini saya klik link flow nya ga muncul? **Download aja file nya nanti dibuka di local masing masing.**
+
 ---
 
 ![bye](https://media.tenor.com/wJ1f-nu2nggAAAAi/wave-bye.gif)
