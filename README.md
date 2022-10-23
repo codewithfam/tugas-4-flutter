@@ -8,8 +8,8 @@ _Halo teman teman! Berikut sudah saya rekap untuk apa saja yang dikerjakan dari 
 
 - Mempelajari mengenai Multipage. **_anda bisa mengikuti di buku halaman 84 sampai dengan 88_**
 - Mempelajari mengenai Tab Bar. **_anda bisa mengikuti di buku halaman 89 sampai dengan 90_**
-- Mempelajari mengenai Postman dan test hit data menggunakan endpoint yg sudah disediakan.
-- Brief mengenai aplikasi untuk UTS (ada di grup whatsapp ya, 1 file pdf 56 halaman dan sample app nya bisa diambil di [sini](https://drive.google.com/file/d/1B_q0uuWZ1ASH0S6U2OEH_D4hQevyRg5o/view?usp=sharing)) -> untuk login nya menggunakan akun yang sudah anda daftarkan di NSCIS kemarin (link ada di repo pertemuan 3)
+- Mempelajari mengenai [Postman](https://www.postman.com/downloads/) dan test hit data menggunakan endpoint yg sudah disediakan.
+- Brief mengenai aplikasi untuk UTS (ada di [sini](<assets/Presence%20Realtime%20%26%20E-Visitor%20(Tugas%20sampai%20UTS).pdf>) ya, dan sample app nya bisa diambil di [sini](https://drive.google.com/file/d/1B_q0uuWZ1ASH0S6U2OEH_D4hQevyRg5o/view?usp=sharing)) -> untuk login nya menggunakan akun yang sudah anda daftarkan di [NSCIS](https://nscis.nsctechnology.com/index.php?r=site/signup) kemarin.
 
 ---
 
@@ -35,7 +35,7 @@ _Nah, untuk tugasnya, ini ada 4. HAAAAH ADA 4? ya. berikut sudah saya recap juga
 
 4. Tugas 4: E-visitor & Presence Realtime (ada di grup WA ya flow nya)
 
-- Khusus yg tugas 4 ini, deadline nya sampe UTS ya. Tampilannya ga boleh sama persis dengan yang ada di sample app nya. Kalau misalnya teman2 mau berkreasi buat nambahin flow nya, dipersilahkan
+- Khusus yg tugas 4 ini, deadline nya sampe UTS ya. Tampilannya ga boleh sama persis dengan yang ada di [sample app](https://drive.google.com/file/d/1B_q0uuWZ1ASH0S6U2OEH_D4hQevyRg5o/view?usp=sharing) nya. [Flow](<assets/Presence%20Realtime%20%26%20E-Visitor%20(Tugas%20sampai%20UTS).pdf>) dan sample code nya ada di Kalau misalnya teman2 mau berkreasi buat nambahin flow nya, dipersilahkan
 
 ---
 
@@ -46,12 +46,11 @@ _Nah, untuk tugasnya, ini ada 4. HAAAAH ADA 4? ya. berikut sudah saya recap juga
 ## FAQ:
 
 - Deadline nya kapan? **seperti biasa, pada pertemuan berikutnya akan di perlihatkan 1 per 1**
-- Jadi ini nanti dibikin berapa project/aplikasi? **Dibuat 3 aplikasi/project ya (tugas 1,2,3). jadi nanti akan ada 3 aplikasi yang akan di show/dipresentasikan**
-- Individu atau kelompok? **individu**
-- Kalau ada pertanyaan boleh langsung di grup saja ya, mungkin ada teman teman lainnya yang memiliki pertanyaan serupa atau ada dosen dan teman lain yang bisa membantu untuk jawab pertanyaan yang anda ajukan.
+- Jadi ini nanti dibikin berapa project/aplikasi? **Dibuat 3 aplikasi/project ya (tugas 1,2,3). jadi nanti akan ada 3 aplikasi yang akan di show/dipresentasikan.**
+- Individu atau kelompok? **Individu.**
 
 - Yang tugas 4 gimana bang? **Nanti dikumpulinnya maksimal sebelum UTS akan di show 1 per 1 juga**
-- Untuk tugas 4 yang sampai UTS gimana bang kelompoknya? setelah kemarin ditanyakan, untuk tugasnya itu individu ya ges. Karena ada penyesuaian di flow nya yg dipersingkat maka yang tadinya kelompok akan diubah menjadi individu. tapi boleh kok kalo mau nanya2 di grup aja.
+- Untuk tugas 4 yang sampai UTS gimana bang kelompoknya? **Setelah kemarin ditanyakan, untuk tugasnya itu INDIVIDU ya ges. Karena ada penyesuaian di flow nya yg dipersingkat maka yang tadinya kelompok akan diubah menjadi individu. tapi boleh kok kalo mau nanya2 di grup aja.**
 
 - Bang saya punya pertanyaan tapi gaada di FAQ? **Silahkan ditanya di grup ya, jangan lewat personal chat. Mungkin ada teman teman lain yang punya pertanyaan sama dan ada dosen juga yang bisa membantu untuk jawab.**
 
