@@ -53,6 +53,8 @@ _Nah, untuk tugasnya, ini ada 4. HAAAAH ADA 4? ya. berikut sudah saya recap juga
 - Yang tugas 4 gimana bang? **Nanti dikumpulinnya maksimal sebelum UTS akan di show 1 per 1 juga**
 - Untuk tugas 4 yang sampai UTS gimana bang kelompoknya? setelah kemarin ditanyakan, untuk tugasnya itu individu ya ges. Karena ada penyesuaian di flow nya yg dipersingkat maka yang tadinya kelompok akan diubah menjadi individu. tapi boleh kok kalo mau nanya2 di grup aja.
 
+- Bang saya punya pertanyaan tapi gaada di FAQ? **Silahkan ditanya di grup ya, jangan lewat personal chat. Mungkin ada teman teman lain yang punya pertanyaan sama dan ada dosen juga yang bisa membantu untuk jawab.**
+
 ---
 
 ![bye](https://media.tenor.com/wJ1f-nu2nggAAAAi/wave-bye.gif)
