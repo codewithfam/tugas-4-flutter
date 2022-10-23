@@ -35,7 +35,7 @@ _Nah, untuk tugasnya, ini ada 4. HAAAAH ADA 4? ya. berikut sudah saya recap juga
 
 4. Tugas 4: E-visitor & Presence Realtime (ada di grup WA ya flow nya)
 
-- Khusus yg tugas 4 ini, deadline nya sampe UTS ya.
+- Khusus yg tugas 4 ini, deadline nya sampe UTS ya. Tampilannya ga boleh sama persis dengan yang ada di sample app nya. Kalau misalnya teman2 mau berkreasi buat nambahin flow nya, dipersilahkan
 
 ---
 
